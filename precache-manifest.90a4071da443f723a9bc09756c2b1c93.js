@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b77d423b3e190d609752565d712ab04c",
+    "revision": "33dcd1d682338ce3fda7bd39a5f5899c",
     "url": "/mavennet/index.html"
   },
   {
-    "revision": "a7fc1cf44225bf16f172",
+    "revision": "b539b5e9497fcb887c3f",
     "url": "/mavennet/static/css/main.1bbc9291.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mavennet/static/js/2.4e81ba5b.chunk.js"
   },
   {
-    "revision": "a7fc1cf44225bf16f172",
-    "url": "/mavennet/static/js/main.35a073b4.chunk.js"
+    "revision": "b539b5e9497fcb887c3f",
+    "url": "/mavennet/static/js/main.e780992f.chunk.js"
   },
   {
     "revision": "14fdc79b9900d2249224",
